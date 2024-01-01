@@ -15,7 +15,7 @@ int main()
     signed int i12 = INT32_MIN;
 
     // одно и то же
-    #ifdef linux
+    #ifdef __unix__
     long i20 = INT64_MIN; 
     long int i21 = INT64_MAX; 
     signed long i22 = INT64_MAX; 
