@@ -15,10 +15,18 @@ int main()
     signed int i12 = INT32_MIN;
 
     // одно и то же
-    long i20 = INT64_MIN; //if Windows -> OVERFLOW
-    long int i21 = INT64_MAX; //if Windows -> OVERFLOW
-    signed long i22 = INT64_MAX; //if Windows -> OVERFLOW
-    signed long int i23 = INT64_MIN; //if Windows -> OVERFLOW
+    #ifdef linux
+    long i20 = INT64_MIN; 
+    long int i21 = INT64_MAX; 
+    signed long i22 = INT64_MAX; 
+    signed long int i23 = INT64_MIN; 
+    #endif
+    #ifdef _WIN32
+    long i20 = INT32_MIN; 
+    long int i21 = INT32_MAX; 
+    signed long i22 = INT32_MAX; 
+    signed long int i23 = INT32_MIN; 
+    #endif
 
     // одно и то же
     long long i30 = INT64_MAX;
