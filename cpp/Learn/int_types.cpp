@@ -34,9 +34,23 @@ int main()
     signed long long i32 = INT64_MAX;
     signed long long int i33 = INT64_MIN;
 
-    cout << "Short size: " << sizeof(short) << '\n'; // 2(Win) 2(Linux)
-    cout << "Int size: " << sizeof(int) << '\n'; // 4(Win) 4(Linux)
-    cout << "Long size: " << sizeof(long) << '\n'; // 4(Win) 8(Linux)
-    cout << "Long Long size: " << sizeof(long long) << '\n'; // 8(Win) 8(Linux)
+    unsigned short a = UINT16_MAX;
+    unsigned a1 = UINT32_MAX;
+    #ifdef __unix__
+    unsigned long a2 = UINT64_MAX;
+    #endif
+    #ifdef _WIN32
+    unsigned long a2 = UINT32_MAX;
+    #endif
+    unsigned long long a3 = UINT64_MAX;
 
+    float x = .5f;
+    double x1 = 1.;
+
+    cout << "Short size: " << sizeof(short) << '\n'; // 2
+    cout << "Int size: " << sizeof(int) << '\n'; // 4
+    cout << "Long size: " << sizeof(long) << '\n'; // 4(Win) 8(Linux)
+    cout << "Long Long size: " << sizeof(long long) << '\n'; // 8
+    cout << "Float size: " << sizeof(float) << '\n'; // 4
+    cout << "Double size: " << sizeof(double) << '\n'; //8
 }

@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    /*
+    #pragma region chars
     bool b = true;
     bool bo{true};
     
@@ -20,5 +22,15 @@ int main()
 
     cout << "Size of char is " << sizeof('a') << '\n'; // 1
     cout << "Size of char is " << sizeof(g) << '\n'; // 2
+    #pragma endregion
 
+    #pragma region initializers
+    int x = 123;
+    int y { 123 };
+    int z = { 123 };
+    #pragma endregion
+    */
+    int a,b;
+    cin >> a >> b; //separators: ' ', '\n', '\t', 
+    cout << a << ' ' << b;
 }
