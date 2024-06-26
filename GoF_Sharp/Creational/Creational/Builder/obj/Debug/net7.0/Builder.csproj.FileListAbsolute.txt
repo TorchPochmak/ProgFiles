@@ -1,0 +1,14 @@
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\bin\Debug\net7.0\Builder.exe
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\bin\Debug\net7.0\Builder.deps.json
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\bin\Debug\net7.0\Builder.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\bin\Debug\net7.0\Builder.pdb
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\refint\Builder.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.pdb
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Builder\obj\Debug\net7.0\ref\Builder.dll
