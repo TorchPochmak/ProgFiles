@@ -1,0 +1,17 @@
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\bin\Debug\net7.0\Singleton.exe
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\bin\Debug\net7.0\Singleton.deps.json
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\bin\Debug\net7.0\Singleton.runtimeconfig.json
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\bin\Debug\net7.0\Singleton.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\bin\Debug\net7.0\Singleton.pdb
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\bin\Debug\net7.0\System.Reactive.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.csproj.CopyComplete
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\refint\Singleton.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.pdb
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Creational\Creational\Singleton\obj\Debug\net7.0\ref\Singleton.dll

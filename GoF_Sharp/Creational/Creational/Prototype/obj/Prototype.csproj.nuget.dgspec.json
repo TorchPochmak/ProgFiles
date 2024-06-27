@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Singleton\\Singleton.csproj": {}
+    "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Prototype\\Prototype.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Singleton\\Singleton.csproj": {
+    "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Singleton\\Singleton.csproj",
-        "projectName": "Singleton",
-        "projectPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Prototype\\Prototype.csproj",
+        "projectName": "Prototype",
+        "projectPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Prototype\\Prototype.csproj",
         "packagesPath": "C:\\Users\\TorchPochmak\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Singleton\\obj\\",
+        "outputPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "System.Reactive": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
