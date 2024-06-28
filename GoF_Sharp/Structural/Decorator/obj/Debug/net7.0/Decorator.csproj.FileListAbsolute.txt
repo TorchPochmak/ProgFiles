@@ -1,0 +1,14 @@
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\bin\Debug\net7.0\Decorator.exe
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\bin\Debug\net7.0\Decorator.deps.json
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\bin\Debug\net7.0\Decorator.dll
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\bin\Debug\net7.0\Decorator.pdb
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.dll
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.pdb
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Decorator\obj\Debug\net7.0\ref\Decorator.dll
