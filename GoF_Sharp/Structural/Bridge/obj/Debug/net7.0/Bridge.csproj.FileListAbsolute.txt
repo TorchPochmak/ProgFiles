@@ -12,3 +12,17 @@ E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Bridge\obj\Debug\net7.0\refin
 E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Bridge\obj\Debug\net7.0\Bridge.pdb
 E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
 E:\GitHub\team_plate\GoF_Sharp\Behaviour\Behaviour\Bridge\obj\Debug\net7.0\ref\Bridge.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\bin\Debug\net7.0\Bridge.exe
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\bin\Debug\net7.0\Bridge.deps.json
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\bin\Debug\net7.0\Bridge.runtimeconfig.json
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\bin\Debug\net7.0\Bridge.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\bin\Debug\net7.0\Bridge.pdb
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfoInputs.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.AssemblyInfo.cs
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.csproj.CoreCompileInputs.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\refint\Bridge.dll
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.pdb
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\Bridge.genruntimeconfig.cache
+E:\GitHub\ProgFiles\GoF_Sharp\Structural\Bridge\obj\Debug\net7.0\ref\Bridge.dll
