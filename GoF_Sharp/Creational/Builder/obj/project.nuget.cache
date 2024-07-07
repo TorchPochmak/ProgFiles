@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUzyHpziL2315RBYm0PQrJF9v/RCEczgJcsptoVKvur631TznbBnQQJ3UBv4FqHQy1bj+HPnqyUKt+zWEEVPkw==",
+  "dgSpecHash": "j2g7CDwuKRNCjoWoiOU/MI6GDUKDXsOcwJeb1pypJm8pgWmj3mBMk8MAzMmmNTO6m51igUe2pA/Lw9v97YKyCQ==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Builder\\Builder.csproj",
+  "projectFilePath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

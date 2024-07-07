@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\FactoryMethod\\FactoryMethod.csproj",
       "projectName": "FactoryMethod",
-      "projectPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\FactoryMethod\\FactoryMethod.csproj",
+      "projectPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\FactoryMethod\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\TorchPochmak\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\FactoryMethod\\obj\\",
+      "outputPath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

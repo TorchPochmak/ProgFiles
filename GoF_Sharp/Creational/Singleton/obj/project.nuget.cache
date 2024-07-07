@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jsMeX9ty5BBf+jKYz4IpHh/40SLg8KdjDHPoQ7hnh3VvfaxtVdiskYXCZeOyRwdlAaoeAVkulGCWK6l6/dZr/Q==",
+  "dgSpecHash": "r4i7mWqncsVapJ+jBDZt3yQlmFIquyXeazDOcuy0uD0tUPBSoY20mc4RYVicqNFzVlb0XFhTIT2LGvoHQqSaqw==",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Creational\\Singleton\\Singleton.csproj",
+  "projectFilePath": "E:\\GitHub\\ProgFiles\\GoF_Sharp\\Creational\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TorchPochmak\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
   ],
