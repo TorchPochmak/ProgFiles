@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "60A5pt3Xf/7U5VZJUfw3iAFgI/WXj/7FlwlkyN+lMx7WGdofcbyHSt4ZZFhbP+VWJhUsyBX3H1cH9LIpKiNOkw==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\team_plate\\AsyncCSharp\\AsyncSolution\\IAsyncResult\\IAsyncResult.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TorchPochmak\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\TorchPochmak\\.nuget\\packages\\mailkit\\4.7.0\\mailkit.4.7.0.nupkg.sha512",
+    "C:\\Users\\TorchPochmak\\.nuget\\packages\\mimekit\\4.7.0\\mimekit.4.7.0.nupkg.sha512",
+    "C:\\Users\\TorchPochmak\\.nuget\\packages\\system.formats.asn1\\8.0.0\\system.formats.asn1.8.0.0.nupkg.sha512",
+    "C:\\Users\\TorchPochmak\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.0\\system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
